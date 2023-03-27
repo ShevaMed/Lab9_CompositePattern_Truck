@@ -1,0 +1,10 @@
+debug/cabin.o
+debug/component.o
+debug/composite.o
+debug/engine.o
+debug/factory.o
+debug/framechassis.o
+debug/main.o
+debug/mainwindow.o
+debug/tires.o
+debug/moc_mainwindow.o
