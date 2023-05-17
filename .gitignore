@@ -8,6 +8,8 @@
 *.qbs
 *.qmlproject
 *.directory
+.qtc_clangd/
+.qmake.stash
 
 # Ignore compilation temporary files
 *.moc
